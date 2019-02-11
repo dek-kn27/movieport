@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5ab8d9f-7432-42de-a116-e6665cd58af4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="31" column="214" lean-forward="true" selection-start-line="31" selection-start-column="214" selection-end-line="31" selection-end-column="214" />
+              <first_editor relative-caret-position="133">
+                <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -280,7 +280,7 @@
       <workItem from="1549806423792" duration="17206000" />
       <workItem from="1549833259310" duration="1627000" />
       <workItem from="1549834914484" duration="5421000" />
-      <workItem from="1549893207138" duration="12554000" />
+      <workItem from="1549893207138" duration="13104000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1549833028086</created>
@@ -296,11 +296,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549917036256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1549919099223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549919099223</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1549919501476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549919501476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36808000" />
+    <option name="totallyTimeSpent" value="37358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +329,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.18683812" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.18683812" />
       <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.25340393" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,7 +343,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298791" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.41666666" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.20408164" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.457483" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3282313" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -435,8 +449,8 @@
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="31" column="214" lean-forward="true" selection-start-line="31" selection-start-column="214" selection-end-line="31" selection-end-column="214" />
+          <first_editor relative-caret-position="133">
+            <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           </first_editor>
           <second_editor />
         </state>
